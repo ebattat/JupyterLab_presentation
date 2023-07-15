@@ -1,2 +1,2 @@
-# JupyterLab_presentation
+# JupyterLab Presentation
 JupyterLab presentation
